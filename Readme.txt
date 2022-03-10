@@ -1,1 +1,0 @@
-En la forma que lo realilce, al ser una aplicacion con interfaz el generar numeros toma mas tiempo que solamente mostrar en consola sinembargo los ordena de una vez en un arbol binario.  
